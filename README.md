@@ -5,7 +5,6 @@
 ## 🚀 About Me
 I am known as ‘dbjpanda’ around the web. I am a technology executive, an academic, and an open-source enthusiast. I love exploring the depth of new things, breaking them down, and making them easy is what makes me happy. I like creating things; blogs, websites, gadgets, companies, and more.
 
-- 🌱 I’m currently learning new technologies and skills.
 - 👯 I’m looking to collaborate on interesting and innovative projects.
 - 🤔 I’m looking for help with expanding my knowledge in various tech domains.
 - 💬 Ask me about technology, open-source projects, and more.
